@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Python Cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Docker
+*.tar
+
+# AWS Credentials
+.aws/
+
+# SSH Keys
+*.pem
+*.ppk
+
+# Local Backup Files
+backups/
+*.bak
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+terraform.tfvars
+
+# Temporary Files
+*.tmp
+*.swp
+
+# Node (if used later)
+node_modules/
