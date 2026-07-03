@@ -252,6 +252,13 @@ Repository includes screenshots of:
 
 ---
 
+## Demo Video
+
+Demo Video Link:
+
+https://www.loom.com/share/732266b0ee554ede88e291b8a40f2e2c
+---
+
 ## Author
 
 **Mutcherla Jayani**
